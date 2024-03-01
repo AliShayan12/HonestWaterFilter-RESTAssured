@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-25T21:45:25 PKT" name="Default suite" finished-at="2024-02-25T21:45:29 PKT" duration-ms="3202">
+    <groups>
+    </groups>
+    <test started-at="2024-02-25T21:45:25 PKT" name="Default test" finished-at="2024-02-25T21:45:29 PKT" duration-ms="3202">
+      <class name="api.test.LoginTests">
+        <test-method is-config="true" signature="LoginData()[pri:0, instance:api.test.LoginTests@55141def]" started-at="2024-02-25T21:45:25 PKT" name="LoginData" finished-at="2024-02-25T21:45:25 PKT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method signature="LoginTechnicianTest()[pri:0, instance:api.test.LoginTests@55141def]" started-at="2024-02-25T21:45:25 PKT" name="LoginTechnicianTest" finished-at="2024-02-25T21:45:29 PKT" duration-ms="3144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTechnicianTest -->
+      </class> <!-- api.test.LoginTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
